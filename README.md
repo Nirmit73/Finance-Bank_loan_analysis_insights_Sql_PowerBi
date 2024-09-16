@@ -15,7 +15,7 @@ This project delivers an in-depth analysis of a bank’s loan portfolio, leverag
 
 ## **Data Source**
 
-This analysis is built upon a comprehensive dataset containing detailed loan information such as loan amounts, issue dates, interest rates, DTI ratios, and loan statuses, stored in a SQL database. You can find the data used for this project in the following [link](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/data/financial_loan.csv).
+This analysis is built upon a comprehensive dataset containing detailed loan information such as loan amounts, issue dates, interest rates, DTI ratios, and loan statuses, stored in a SQL database. You can find the data used for this project in the following [link](https://github.com/Nirmit73/Finance-Bank_loan_analysis_insights_Sql_PowerBi/blob/main/Data/financial_loan.csv).
 
 ---
 
@@ -45,7 +45,7 @@ The project follows a structured, multi-step process for thorough analysis and v
 
 ### **6. Data Visualization:**
 - **Objective**: Present data visually for easier consumption and insight discovery.
-- **Approach**: **Power BI**, **Excel**, and **Tableau** were used to create rich, interactive dashboards that made the results accessible and actionable for stakeholders.
+- **Approach**: **Power BI** was used to create rich, interactive dashboards that made the results accessible and actionable for stakeholders.
 
 ---
 
@@ -62,9 +62,8 @@ The project follows a structured, multi-step process for thorough analysis and v
 ## **Tools and Technologies Used**
 
 - **SQL Management Server**: Used for managing, querying, and analyzing data from the bank’s loan dataset.
-- **Excel**: Employed for initial data cleaning, processing, and validating preliminary results.
 - **Power BI**: Used for building interactive dashboards that visualize loan trends and portfolio performance.
-- **Tableau**: Leveraged for advanced data visualization, exploring relationships and trends in loan data.
+
 
 ---
 
@@ -79,44 +78,16 @@ The project follows a structured, multi-step process for thorough analysis and v
 ## **Principal Visualizations**
 
 ### **Summary Panel**
-![summary](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/05d19ea3-9f54-4dbb-b4f3-b3e22c57d47c)
+![summary](https://github.com/Nirmit73/Finance-Bank_loan_analysis_insights_Sql_PowerBi/blob/main/Images/summary.png)
 
 ### **Overview Display**
-![overview](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/51acbbeb-90ea-4d62-bceb-82178e741e98)
+![overview](https://github.com/Nirmit73/Finance-Bank_loan_analysis_insights_Sql_PowerBi/blob/main/Images/overview.png)
 
 ### **Detailed Insights Interface**
-![details](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/45f862e3-1205-4899-955e-79c3b7176673)
+![details](https://github.com/Nirmit73/Finance-Bank_loan_analysis_insights_Sql_PowerBi/blob/main/Images/details.png)
 
 ---
 
-## **Interactive Dashboards**
-
-Explore the interactive dashboards for a more in-depth understanding of the analysis:
-
-<table>
-  <tr>
-    <th>Tool</th>
-    <th>Power BI</th>
-    <th>Tableau</th>
-  </tr>
-  <tr>
-    <td><strong>Link</strong></td>
-    <td align="center"><a href="https://app.powerbi.com/links/TKA2t1DcsX?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare"><img src="https://img.shields.io/badge/Microsoft%20Power%20BI-View%20Dashboard-gold?logo=powerbi" alt="Power BI"></a></td>
-    <td align="center"><a href="https://public.tableau.com/app/profile/viraj.bhutada/viz/BankLoanReport_17159359867640/Summary"><img src="https://img.shields.io/badge/Tableau%20Public-Explore%20Data%20Viz-lightblue?logo=tableau" alt="Tableau"></a></td>
-  </tr>
-  <tr>
-    <td><strong>Overview</strong></td>
-    <td>This dashboard provides a comprehensive view of key metrics related to the bank’s loan portfolio.</td>
-    <td>This Tableau visualization offers a detailed analysis of loan metrics and performance factors.</td>
-  </tr>
-  <tr>
-    <td><strong>Features</strong></td>
-    <td>• Explore loan performance trends.<br>• Identify borrower demographics.<br>• Use interactive filters to analyze data in-depth.</td>
-    <td>• Interactive visualizations.<br>• Explore relationships between key loan variables.<br>• Gain insights into customer and portfolio trends.</td>
-  </tr>
-</table>
-
----
 
 ## **Data Field Definitions**
 
